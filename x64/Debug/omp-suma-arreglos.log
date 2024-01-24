@@ -1,0 +1,5 @@
+﻿  omp-suma-arreglos.cpp
+C:\git\MNA_Computo_Nube\omp-suma-arreglos\omp-suma-arreglos.cpp(19,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\git\MNA_Computo_Nube\omp-suma-arreglos\omp-suma-arreglos.cpp(20,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\git\MNA_Computo_Nube\omp-suma-arreglos\omp-suma-arreglos.cpp(9,5): warning C4101: 'i': unreferenced local variable
+  omp-suma-arreglos.vcxproj -> C:\git\MNA_Computo_Nube\omp-suma-arreglos\x64\Debug\omp-suma-arreglos.exe
